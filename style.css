@@ -46,9 +46,11 @@ footer {
     float: right;
     color: gray;
     background-color: white;
-    width: 260px;   
+    width: 260px;
+    height: 230px;   
     text-align: center;    
     margin-top: 20px;
+    line-height: 30px;
 }
 
 .article {
